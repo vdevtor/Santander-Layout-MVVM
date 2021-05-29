@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SantanderLayout MVVM</string>
+    <string name="menu1">Menu1</string>
+    <string name="menu2">Menu2</string>
+    <string name="hello">Olá,</string>
+    <string name="userName">Vitor</string>
+    <string name="available_balance">Available Balance</string>
+    <string name="standard_balance">R$ 1.200,00</string>
+    <string name="balance_limit">Balance - Limit</string>
+    <string name="amount_credit">R$ 2.456,00</string>
+    <string name="show_extract">Show Extract</string>
+    <string name="cc_number_value">Cc</string>
+    <string name="cc">Cc</string>
+    <string name="ag_hc_number">2020-4</string>
+    <string name="ag_hc">Ag</string>
+    <string name="pay">Pay</string>
+    <string name="transfer">Transfer</string>
+    <string name="final_card">Final Card</string>
+    <string name="santander">Santander</string>
+</resources>
